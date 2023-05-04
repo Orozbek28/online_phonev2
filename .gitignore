@@ -1,0 +1,6 @@
+venv/
+.idea/
+backend.zip
+db.sqlite3
+media/
+**/__pycache__/
